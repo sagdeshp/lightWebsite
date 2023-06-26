@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: lightWebsite
+  annotations:
+    github.com/project-slug: sagdeshp/lightWebsite
+spec:
+  type: other
+  lifecycle: unknown
+  owner: sagdeshp
